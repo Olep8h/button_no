@@ -1,0 +1,31 @@
+body{
+  background: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  box-sizing: border-box;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  color: #fff;
+  letter-spacing: 1px;
+}
+.btn{
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  width: 120px;
+  font-weight: bold;
+  height: 50px;
+  transition: 0.08s;
+  border: none;
+  background: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 40px 5px;
+}
