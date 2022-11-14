@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fa774d3-9d3f-4b0c-9051-de62b56350f8" name="Changes" comment="Some fix" />
+    <list default="true" id="7fa774d3-9d3f-4b0c-9051-de62b56350f8" name="Changes" comment="Some fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/My projects/HTML&CSS&JS/button_no/project_button_no",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +48,10 @@
       <option name="presentableId" value="Default" />
       <updated>1668287791497</updated>
       <workItem from="1668287799491" duration="1671000" />
+      <workItem from="1668290065647" duration="167000" />
+      <workItem from="1668354627804" duration="222000" />
+      <workItem from="1668430368170" duration="186000" />
+      <workItem from="1668462745536" duration="798000" />
     </task>
     <task id="LOCAL-00001" summary="Simple design and functionality. We have only one question with two answers &quot;Yes&quot; and &quot;No&quot;. But when you hit the &quot;No&quot; button it go away from you.">
       <created>1668289246925</created>
